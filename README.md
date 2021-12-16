@@ -1,6 +1,6 @@
 # Song Search
 
-Say (or sing) song lyrics and have the top 3 matches returned to you using Deepgram and the Genius API.
+Say (or sing) song lyrics and have the top 3 matches returned to you using Deepgram and the Genius API. This project accompanies a blog post available at https://developers.deepgram.com/blog/2021/12/song-search-js/
 
 You will need:
 
